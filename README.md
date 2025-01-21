@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rohan Gupta</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-ang3l07&label=Profile%20views&color=0e75b6&style=flat" alt="dark-ang3l07" /> </p>
 
